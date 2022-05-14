@@ -1,0 +1,81 @@
+#EXTM3U
+
+#EXTINF:-1 ,CCTV-1 综合 高清
+http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 ,CCTV-2 经济 高清
+http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 ,CCTV-3 综艺 高清
+http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 ,CCTV-4 中文国际 高清
+http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225753/index.m3u8
+#EXTINF:-1 ,CCTV-5 体育 高清
+http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
+#EXTINF:-1 ,CCTV-5+ 体育赛事 高清
+http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225621/index.m3u8
+#EXTINF:-1 ,CCTV-6 电影 高清
+http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
+#EXTINF:-1 ,CCTV-7 国防军事 高清
+http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
+#EXTINF:-1 ,CCTV-8 电视剧 高清
+http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225630/index.m3u8
+#EXTINF:-1 ,CCTV-9 记录 高清
+http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
+#EXTINF:-1 ,CCTV-10 科教 高清
+http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
+#EXTINF:-1 ,CCTV-11 戏曲 高清
+http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225750/index.m3u8
+#EXTINF:-1 ,CCTV-12 社会与法 高清
+http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+#EXTINF:-1 ,CCTV-13 新闻 高清
+http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225787/index.m3u8
+#EXTINF:-1 ,CCTV-14 少儿 高清
+http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
+#EXTINF:-1 ,CCTV-15 音乐 高清
+http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225693/index.m3u8
+#EXTINF:-1 ,CCTV-17 农业农村 高清
+http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225833/index.m3u8
+
+#EXTINF:-1 ,东南卫视 高清
+http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225696/index.m3u8
+#EXTINF:-1 ,东方卫视 高清
+http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225682/index.m3u8
+#EXTINF:-1 ,北京卫视 高清
+http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
+#EXTINF:-1 ,冬奥纪实 高清
+http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225667/index.m3u8
+#EXTINF:-1 ,天津卫视 高清
+http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225694/index.m3u8
+#EXTINF:-1 ,安徽卫视 高清
+http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 ,山东卫视 高清
+http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225642/index.m3u8
+#EXTINF:-1 ,广东卫视 高清
+http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
+#EXTINF:-1 ,江苏卫视 高清
+http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225636/index.m3u8
+#EXTINF:-1 ,江西卫视 高清
+http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 ,浙江卫视 高清
+http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225695/index.m3u8
+#EXTINF:-1 ,深圳卫视 高清
+http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225691/index.m3u8
+#EXTINF:-1 ,湖北卫视 高清
+http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
+#EXTINF:-1 ,湖南卫视 高清
+http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225692/index.m3u8
+#EXTINF:-1 ,辽宁卫视 高清
+http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225639/index.m3u8
+#EXTINF:-1 ,重庆卫视 高清
+http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225679/index.m3u8
+#EXTINF:-1 ,黑龙江卫视 高清
+http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225686/index.m3u8
+#EXTINF:-1 ,纪实人文 高清
+http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225688/index.m3u8
+#EXTINF:-1 ,黑莓动画 高清
+http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225710/index.m3u8
+#EXTINF:-1 ,黑莓电影 高清
+http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
+#EXTINF:-1 ,哒啵赛事 高清
+http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225760/index.m3u8
+#EXTINF:-1 ,纯享4K 4K超高清
+http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225726/index.m3u8
